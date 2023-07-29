@@ -1,0 +1,2 @@
+this is my first project on githuub
+currently i have preapring for devops
